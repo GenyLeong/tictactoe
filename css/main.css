@@ -1,0 +1,19 @@
+table{
+	margin: 21px;
+
+}
+
+tr{
+	border: 1px solid black;
+}
+
+td{
+	width: 40px;
+	height: 40px;
+	border: 1px solid black;
+	text-align: center;
+}
+
+.game{
+	margin-left: 35px;
+}
